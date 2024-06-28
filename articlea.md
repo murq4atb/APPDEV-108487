@@ -1,7 +1,7 @@
 # Mastering Python: An In-Depth Guide
 Python is a versatile and powerful programming language known for its readability and straightforward syntax. It is a favorite among developers in diverse fields, from web development to data science, due to its simplicity and the vast ecosystem of libraries and frameworks it supports.
 
-***Bild***
+![](https://www.python.org/static/img/python-logo@2x.png)
 
 ## 1. Python's Key Features
 Python offers several **core features** that make it immensely popular:
@@ -49,18 +49,17 @@ print(data.describe())
 Python has a robust ecosystem supported by a vibrant community. There are numerous conferences around the world, such as PyCon, and an abundance of resources available online.
 ### 3.1 Community Resources
 Here are some great places to learn more about Python:
-- Python.org - The official Python website.
-- PyCon - A major conference for the Python community.
-
-***ENTER WEBSITELINKS***
-
+- [**Python.org**](https://www.python.org)- The official Python website.
+- [**PyCon**](https://pycon.org) - A major conference for the Python community.
 ### 3.2 Utilizing Python Libraries
 Here is a table of some popular Python libraries and their uses:
-
-
-***ENTER LIST***
-
-
+| **Library** | **Use Case** |
+| :------: | :------: |
+| Django | Web Development |
+| Pandas | Data Analysis|
+| NumPy | Numerical Computing |
+| Matplotlib | Data Visualization |
+| Scikit-learn | Machine Learning |
 ## Conclusion
 ---
 Python's broad applicability and ease of use have contributed to its status as a top choice for beginners and experts alike. Its syntax is accessible, making complex ideas straightforward to express, while its libraries make powerful functionality readily available.
@@ -70,9 +69,8 @@ As Python continues to evolve, its community grows ever more vibrant, ensuring t
 Enjoy exploring Python and remember, the best way to learn is by doing. Start writing your Python code today and become part of the global community of Python developers!
 ***
 *Article content is generated using ChatGPT.*
-***test color***
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-<a href="/donate">DONATE</a>You do not have to replicate this box and its content! The article uses following Markdown features/syntax/formatting:</div>
+<div class="blue">
+You do not have to replicate this box and its content! The article uses following Markdown features/syntax/formatting:
 
 - Bold, Italic
 - Inline code
@@ -89,4 +87,5 @@ Resources needed to replicate the article formatting:
 - https://www.python.org/static/img/python-logo@2x.png (Image)
 
 Note: Don't worry if your Markdown processor/editor is using a different font, font size, background, color, and/or heading decoration.
-The syntax used in your submission is primary graded based on the Markdown file. This PDF is generated using Markdown with md2pdf.
+The syntax used in your submission is primary graded based on the Markdown file. This PDF is generated using Markdown with [md2pdf](https://md2pdf.netlify.app).
+</div>
